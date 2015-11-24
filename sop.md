@@ -1,0 +1,1 @@
+* [Kamyar Infinity](https://twitter.com/kamyarinfinity) has written a short essay on writing the SOP. These set of general rules can be of great help in writing your statement of purpose. You can access this article [here](http://admission.rocks/treasury/article/2/). (written in Persian)
