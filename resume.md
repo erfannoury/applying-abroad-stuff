@@ -1,0 +1,1 @@
+* [Ehsan Emamjomeh-Zadeh](http://www-scf.usc.edu/~emamjome/) has provided a great template for writing resume. You can find it [here](http://www-scf.usc.edu/~emamjome/LaTeX_templates/sample_resume.zip).
