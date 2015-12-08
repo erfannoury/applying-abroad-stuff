@@ -1,1 +1,1 @@
-
+* [Debarghya Das ](http://debarghyadas.com/) has scraped the GradCafe website and has extracted great information about graduate schools from all the data that is piled there. You should read his great [blog post](http://debarghyadas.com/writes/analyzing-the-largest-compilation-of-graduate-school-admissions-data/) about admission data.
